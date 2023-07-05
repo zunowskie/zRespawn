@@ -1,0 +1,4 @@
+name: zRespawn
+version: '${project.version}'
+main: ru.zunowskie.zrespawn.ZRespawn
+api-version: '1.16'
